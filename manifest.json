@@ -1,0 +1,1110 @@
+{
+  "schema": 1,
+  "generated_at": "2026-10-24T13:57:46-04:00",
+  "release": "print-2026-10-24-2",
+  "release_url": "https://github.com/buxjr311/ccpdgc-signs/releases/tag/print-2026-10-24-2",
+  "courses": [
+    {
+      "key": "duvall",
+      "name": "Duvall Course",
+      "status": "draft",
+      "holes": []
+    },
+    {
+      "key": "ironwood",
+      "name": "Ironwood Course",
+      "status": "published",
+      "zip": {
+        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood.zip",
+        "bytes": 455687550
+      },
+      "holes": [
+        {
+          "n": 1,
+          "name": "ccp_ironwood_01",
+          "preview": {
+            "path": "previews/ccp_ironwood_01.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "6c2356e"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_01.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "c06ef66"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_01.pdf",
+            "bytes": 25567779
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 337,
+                "white-red": 205
+              },
+              "par": {
+                "blue": 3,
+                "white-red": 3
+              }
+            }
+          ],
+          "notes": [
+            "The road and beyond is OB.",
+            "Inside the ballfield fence is OB."
+          ],
+          "note_badges": [
+            "OB",
+            "OB"
+          ]
+        },
+        {
+          "n": 2,
+          "name": "ccp_ironwood_02",
+          "preview": {
+            "path": "previews/ccp_ironwood_02.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "b75b8fd"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_02.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "a822c51"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_02.pdf",
+            "bytes": 22918608
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 374,
+                "white-red": 248
+              },
+              "par": {
+                "blue": 3,
+                "white-red": 3
+              }
+            }
+          ],
+          "notes": [
+            "The parking lot and beyond is OB.",
+            "Inside the ballfield fence is OB."
+          ],
+          "note_badges": [
+            "OB",
+            "OB"
+          ]
+        },
+        {
+          "n": 3,
+          "name": "ccp_ironwood_03",
+          "preview": {
+            "path": "previews/ccp_ironwood_03.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "1c52078"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_03.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "3300d62"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_03.pdf",
+            "bytes": 24985677
+          },
+          "tees": [
+            {
+              "key": "blue-white-red",
+              "label": "Blue · White · Red",
+              "colors": [
+                "blue",
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue-white-red": 319
+              },
+              "par": {
+                "blue-white-red": 3
+              }
+            }
+          ],
+          "notes": [
+            "The road and beyond is OB.",
+            "Inside the ballfield fence is OB."
+          ],
+          "note_badges": [
+            "OB",
+            "OB"
+          ]
+        },
+        {
+          "n": 4,
+          "name": "ccp_ironwood_04",
+          "preview": {
+            "path": "previews/ccp_ironwood_04.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "f467b4b"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_04.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "1bdb048"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_04.pdf",
+            "bytes": 24827041
+          },
+          "tees": [
+            {
+              "key": "blue-white-red",
+              "label": "Blue · White · Red",
+              "colors": [
+                "blue",
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue-white-red": 322
+              },
+              "par": {
+                "blue-white-red": 3
+              }
+            },
+            {
+              "id": "B",
+              "feet": {
+                "blue-white-red": 386
+              },
+              "par": {
+                "blue-white-red": 4
+              }
+            }
+          ],
+          "notes": [
+            "The road and beyond is OB."
+          ],
+          "note_badges": [
+            "OB"
+          ]
+        },
+        {
+          "n": 5,
+          "name": "ccp_ironwood_05",
+          "preview": {
+            "path": "previews/ccp_ironwood_05.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "99fd7d2"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_05.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "fb17532"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_05.pdf",
+            "bytes": 25076418
+          },
+          "tees": [
+            {
+              "key": "blue-white",
+              "label": "Blue · White",
+              "colors": [
+                "blue",
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue-white": 324,
+                "red": 252
+              },
+              "par": {
+                "blue-white": 3,
+                "red": 3
+              }
+            },
+            {
+              "id": "B",
+              "feet": {
+                "blue-white": 389,
+                "red": 318
+              },
+              "par": {
+                "blue-white": 4,
+                "red": 4
+              }
+            },
+            {
+              "id": "C",
+              "feet": {
+                "blue-white": 438,
+                "red": 366
+              },
+              "par": {
+                "blue-white": 4,
+                "red": 4
+              }
+            }
+          ],
+          "notes": [
+            "The walkway, parking lot and road and beyond are OB.",
+            "The staked swampy area is OB."
+          ],
+          "note_badges": [
+            "OB",
+            "OB"
+          ]
+        },
+        {
+          "n": 6,
+          "name": "ccp_ironwood_06",
+          "preview": {
+            "path": "previews/ccp_ironwood_06.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "d479451"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_06.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "b2519e1"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_06.pdf",
+            "bytes": 26409334
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 366,
+                "white-red": 333
+              },
+              "par": {
+                "blue": 3,
+                "white-red": 3
+              }
+            },
+            {
+              "id": "B",
+              "feet": {
+                "blue": 422,
+                "white-red": 414
+              },
+              "par": {
+                "blue": 4,
+                "white-red": 4
+              }
+            }
+          ],
+          "notes": [
+            "The road and beyond is OB.",
+            "Inside the ballfield fence is OB."
+          ],
+          "note_badges": [
+            "OB",
+            "OB"
+          ]
+        },
+        {
+          "n": 7,
+          "name": "ccp_ironwood_07",
+          "preview": {
+            "path": "previews/ccp_ironwood_07.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "6465e7b"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_07.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "2a3ae4a"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_07.pdf",
+            "bytes": 25110012
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white",
+              "label": "White",
+              "colors": [
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 418,
+                "white": 339,
+                "red": 214
+              },
+              "par": {
+                "blue": 3,
+                "white": 3,
+                "red": 3
+              }
+            },
+            {
+              "id": "B",
+              "feet": {
+                "blue": 511,
+                "white": 432,
+                "red": 306
+              },
+              "par": {
+                "blue": 4,
+                "white": 4,
+                "red": 3
+              }
+            },
+            {
+              "id": "C",
+              "feet": {
+                "blue": 509,
+                "white": 432,
+                "red": 316
+              },
+              "par": {
+                "blue": 4,
+                "white": 4,
+                "red": 3
+              }
+            }
+          ],
+          "notes": [
+            "Inside the ballfield fence is OB."
+          ],
+          "note_badges": [
+            "OB"
+          ]
+        },
+        {
+          "n": 8,
+          "name": "ccp_ironwood_08",
+          "preview": {
+            "path": "previews/ccp_ironwood_08.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "ae8886d"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_08.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "2e89916"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_08.pdf",
+            "bytes": 26791311
+          },
+          "tees": [
+            {
+              "key": "blue-white",
+              "label": "Blue · White",
+              "colors": [
+                "blue",
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue-white": 303,
+                "red": 136
+              },
+              "par": {
+                "blue-white": 3,
+                "red": 3
+              }
+            },
+            {
+              "id": "B",
+              "feet": {
+                "blue-white": 362,
+                "red": 200
+              },
+              "par": {
+                "blue-white": 4,
+                "red": 3
+              }
+            }
+          ],
+          "notes": [
+            "Creek and beyond is OB."
+          ],
+          "note_badges": [
+            "OB"
+          ]
+        },
+        {
+          "n": 9,
+          "name": "ccp_ironwood_09",
+          "preview": {
+            "path": "previews/ccp_ironwood_09.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "11b1d3a"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_09.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "42d46c9"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_09.pdf",
+            "bytes": 24686025
+          },
+          "tees": [
+            {
+              "key": "blue-white-red",
+              "label": "Blue · White · Red",
+              "colors": [
+                "blue",
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue-white-red": 174
+              },
+              "par": {
+                "blue-white-red": 3
+              }
+            }
+          ],
+          "notes": [],
+          "note_badges": []
+        },
+        {
+          "n": 10,
+          "name": "ccp_ironwood_10",
+          "preview": {
+            "path": "previews/ccp_ironwood_10.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "637ee08"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_10.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "5f10bc6"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_10.pdf",
+            "bytes": 27670627
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white",
+              "label": "White",
+              "colors": [
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 745,
+                "white": 608,
+                "red": 432
+              },
+              "par": {
+                "blue": 5,
+                "white": 5,
+                "red": 4
+              }
+            }
+          ],
+          "notes": [
+            "Creek and beyond is OB."
+          ],
+          "note_badges": [
+            "OB"
+          ]
+        },
+        {
+          "n": 11,
+          "name": "ccp_ironwood_11",
+          "preview": {
+            "path": "previews/ccp_ironwood_11.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "2f298e4"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_11.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "fe74b70"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_11.pdf",
+            "bytes": 25258968
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 320,
+                "white-red": 261
+              },
+              "par": {
+                "blue": 3,
+                "white-red": 3
+              }
+            }
+          ],
+          "notes": [
+            "Creek is OB."
+          ],
+          "note_badges": [
+            "OB"
+          ]
+        },
+        {
+          "n": 12,
+          "name": "ccp_ironwood_12",
+          "preview": {
+            "path": "previews/ccp_ironwood_12.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "d25b157"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_12.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "40d7ab3"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_12.pdf",
+            "bytes": 25131011
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 376,
+                "white-red": 318
+              },
+              "par": {
+                "blue": 4,
+                "white-red": 3
+              }
+            }
+          ],
+          "notes": [],
+          "note_badges": []
+        },
+        {
+          "n": 13,
+          "name": "ccp_ironwood_13",
+          "preview": {
+            "path": "previews/ccp_ironwood_13.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "81fee68"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_13.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "c2efee1"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_13.pdf",
+            "bytes": 26651591
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white",
+              "label": "White",
+              "colors": [
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 358,
+                "white": 288,
+                "red": 202
+              },
+              "par": {
+                "blue": 4,
+                "white": 3,
+                "red": 3
+              }
+            }
+          ],
+          "notes": [
+            "Creek and beyond is OB.",
+            "To 14: take the paved path across the bridge, then turn right and follow the creek to the tee."
+          ],
+          "note_badges": [
+            "OB",
+            null
+          ]
+        },
+        {
+          "n": 14,
+          "name": "ccp_ironwood_14",
+          "preview": {
+            "path": "previews/ccp_ironwood_14.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "21f6e50"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_14.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "1d2297e"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_14.pdf",
+            "bytes": 25862339
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white",
+              "label": "White",
+              "colors": [
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 483,
+                "white": 375,
+                "red": 252
+              },
+              "par": {
+                "blue": 4,
+                "white": 4,
+                "red": 3
+              }
+            }
+          ],
+          "notes": [],
+          "note_badges": []
+        },
+        {
+          "n": 15,
+          "name": "ccp_ironwood_15",
+          "preview": {
+            "path": "previews/ccp_ironwood_15.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "1d07309"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_15.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "5a10bfa"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_15.pdf",
+            "bytes": 25075728
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 465,
+                "white-red": 340
+              },
+              "par": {
+                "blue": 4,
+                "white-red": 3
+              }
+            }
+          ],
+          "notes": [],
+          "note_badges": []
+        },
+        {
+          "n": 16,
+          "name": "ccp_ironwood_16",
+          "preview": {
+            "path": "previews/ccp_ironwood_16.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "3b8cf5f"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_16.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "3398e13"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_16.pdf",
+            "bytes": 25535918
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 399,
+                "white-red": 299
+              },
+              "par": {
+                "blue": 4,
+                "white-red": 3
+              }
+            }
+          ],
+          "notes": [],
+          "note_badges": []
+        },
+        {
+          "n": 17,
+          "name": "ccp_ironwood_17",
+          "preview": {
+            "path": "previews/ccp_ironwood_17.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "fa601aa"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_17.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "271fcac"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_17.pdf",
+            "bytes": 25116487
+          },
+          "tees": [
+            {
+              "key": "blue-white-red",
+              "label": "Blue · White · Red",
+              "colors": [
+                "blue",
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue-white-red": 207
+              },
+              "par": {
+                "blue-white-red": 3
+              }
+            }
+          ],
+          "notes": [
+            "Creek and beyond is OB.",
+            "To 18: follow the creek left, behind hole 8's tee, and cross at the bridge."
+          ],
+          "note_badges": [
+            "OB",
+            null
+          ]
+        },
+        {
+          "n": 18,
+          "name": "ccp_ironwood_18",
+          "preview": {
+            "path": "previews/ccp_ironwood_18.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "abd1238"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_18.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "b4480e1"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-24-2/ccp_ironwood_18.pdf",
+            "bytes": 23010602
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
+                "white",
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 430,
+                "white-red": 424
+              },
+              "par": {
+                "blue": 4,
+                "white-red": 4
+              }
+            }
+          ],
+          "notes": [
+            "The road and beyond is OB.",
+            "Disc must pass left of the mando.",
+            "Missed the mando? Play from the drop zone."
+          ],
+          "note_badges": [
+            "OB",
+            "MANDO",
+            "DZ"
+          ]
+        }
+      ]
+    }
+  ]
+}

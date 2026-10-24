@@ -4,10 +4,11 @@ Tee sign artwork for the disc golf courses at Crooked Creek Park, Chapin, South 
 
 **Print files:** [latest release](https://github.com/buxjr311/ccpdgc-signs/releases/latest) (11×17" portrait PDFs, print ready; one zip per course).
 **Gallery:** https://buxjr311.github.io/ccpdgc-signs/
+**Manifest** (for ccpdgc.com): https://buxjr311.github.io/ccpdgc-signs/manifest.json
 
-Current print set: `print-2026-10-24` (October 24, 2026).
+Current print set: `print-2026-10-24-2` (October 24, 2026).
 
-## Ironwood
+## Ironwood Course
 
 | Hole | Print PDF |
 |---|---|
