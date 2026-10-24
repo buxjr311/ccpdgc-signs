@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-24T13:57:46-04:00",
+  "generated_at": "2026-10-24T13:59:38-04:00",
   "release": "print-2026-10-24-2",
   "release_url": "https://github.com/buxjr311/ccpdgc-signs/releases/tag/print-2026-10-24-2",
   "courses": [
@@ -589,8 +589,12 @@
               }
             }
           ],
-          "notes": [],
-          "note_badges": []
+          "notes": [
+            "No special rules on this hole."
+          ],
+          "note_badges": [
+            null
+          ]
         },
         {
           "n": 10,
@@ -761,8 +765,12 @@
               }
             }
           ],
-          "notes": [],
-          "note_badges": []
+          "notes": [
+            "No special rules on this hole."
+          ],
+          "note_badges": [
+            null
+          ]
         },
         {
           "n": 13,
@@ -887,8 +895,12 @@
               }
             }
           ],
-          "notes": [],
-          "note_badges": []
+          "notes": [
+            "No special rules on this hole."
+          ],
+          "note_badges": [
+            null
+          ]
         },
         {
           "n": 15,
@@ -939,8 +951,12 @@
               }
             }
           ],
-          "notes": [],
-          "note_badges": []
+          "notes": [
+            "No special rules on this hole."
+          ],
+          "note_badges": [
+            null
+          ]
         },
         {
           "n": 16,
@@ -991,8 +1007,12 @@
               }
             }
           ],
-          "notes": [],
-          "note_badges": []
+          "notes": [
+            "No special rules on this hole."
+          ],
+          "note_badges": [
+            null
+          ]
         },
         {
           "n": 17,
