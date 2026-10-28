@@ -6,7 +6,7 @@ Tee sign artwork for the disc golf courses at Crooked Creek Park, Chapin, South 
 **Gallery:** https://buxjr311.github.io/ccpdgc-signs/
 **Manifest** (for ccpdgc.com): https://buxjr311.github.io/ccpdgc-signs/manifest.json
 
-Current print set: `print-2026-10-28` (October 28, 2026).
+Current print set: `print-2026-10-28-2` (October 28, 2026).
 
 ## Duvall Course
 
@@ -48,8 +48,10 @@ Current print set: `print-2026-10-28` (October 28, 2026).
 | 9 | [ccp_ironwood_09.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_09.pdf) |
 | 10 | [ccp_ironwood_10.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_10.pdf) |
 | 11 | [ccp_ironwood_11.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_11.pdf) |
-| 12 | [ccp_ironwood_12.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_12.pdf) |
-| 13 | [ccp_ironwood_13.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_13.pdf) |
+| 12 | [ccp_ironwood_12l.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_12l.pdf) |
+| 12 | [ccp_ironwood_12r.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_12r.pdf) |
+| 13 | [ccp_ironwood_13l.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_13l.pdf) |
+| 13 | [ccp_ironwood_13r.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_13r.pdf) |
 | 14 | [ccp_ironwood_14.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_14.pdf) |
 | 15 | [ccp_ironwood_15.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_15.pdf) |
 | 16 | [ccp_ironwood_16.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_ironwood_16.pdf) |
