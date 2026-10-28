@@ -6,7 +6,32 @@ Tee sign artwork for the disc golf courses at Crooked Creek Park, Chapin, South 
 **Gallery:** https://buxjr311.github.io/ccpdgc-signs/
 **Manifest** (for ccpdgc.com): https://buxjr311.github.io/ccpdgc-signs/manifest.json
 
-Current print set: `print-2026-10-24-2` (October 24, 2026).
+Current print set: `print-2026-10-28` (October 28, 2026).
+
+## Duvall Course
+
+| Hole | Print PDF |
+|---|---|
+| 1 | [ccp_duvall_01.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_01.pdf) |
+| 2 | [ccp_duvall_02.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_02.pdf) |
+| 3 | [ccp_duvall_03.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_03.pdf) |
+| 4 | [ccp_duvall_04.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_04.pdf) |
+| 5 | [ccp_duvall_05.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_05.pdf) |
+| 6 | [ccp_duvall_06.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_06.pdf) |
+| 7 | [ccp_duvall_07.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_07.pdf) |
+| 8 | [ccp_duvall_08.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_08.pdf) |
+| 9 | [ccp_duvall_09l.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_09l.pdf) |
+| 9 | [ccp_duvall_09r.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_09r.pdf) |
+| 10 | [ccp_duvall_10l.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_10l.pdf) |
+| 10 | [ccp_duvall_10r.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_10r.pdf) |
+| 11 | [ccp_duvall_11.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_11.pdf) |
+| 12 | [ccp_duvall_12.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_12.pdf) |
+| 13 | [ccp_duvall_13.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_13.pdf) |
+| 14 | [ccp_duvall_14.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_14.pdf) |
+| 15 | [ccp_duvall_15.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_15.pdf) |
+| 16 | [ccp_duvall_16.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_16.pdf) |
+| 17 | [ccp_duvall_17.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_17.pdf) |
+| 18 | [ccp_duvall_18.pdf](https://github.com/buxjr311/ccpdgc-signs/releases/latest/download/ccp_duvall_18.pdf) |
 
 ## Ironwood Course
 
