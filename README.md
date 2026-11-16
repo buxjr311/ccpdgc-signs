@@ -6,7 +6,7 @@ Tee sign artwork for the disc golf courses at Crooked Creek Park, Chapin, South 
 **Gallery:** https://buxjr311.github.io/ccpdgc-signs/
 **Manifest** (for ccpdgc.com): https://buxjr311.github.io/ccpdgc-signs/manifest.json
 
-Current print set: `print-2026-10-28-2` (October 28, 2026).
+Current print set: `print-2026-11-16` (November 16, 2026).
 
 ## Duvall Course
 

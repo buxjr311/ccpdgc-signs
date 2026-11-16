@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-28T15:36:12-04:00",
-  "release": "print-2026-10-28-2",
-  "release_url": "https://github.com/buxjr311/ccpdgc-signs/releases/tag/print-2026-10-28-2",
+  "generated_at": "2026-11-16T17:03:14-05:00",
+  "release": "print-2026-11-16",
+  "release_url": "https://github.com/buxjr311/ccpdgc-signs/releases/tag/print-2026-11-16",
   "courses": [
     {
       "key": "duvall",
       "name": "Duvall Course",
       "status": "published",
       "zip": {
-        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall.zip",
-        "bytes": 532917411
+        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall.zip",
+        "bytes": 621206152
       },
       "holes": [
         {
@@ -20,17 +20,17 @@
             "path": "previews/ccp_duvall_01.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "3d6e2ac"
+            "hash": "fd80a95"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_01.webp",
             "w": 360,
             "h": 556,
-            "hash": "c336918"
+            "hash": "24fa916"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_01.pdf",
-            "bytes": 24161653
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_01.pdf",
+            "bytes": 29146812
           },
           "tees": [
             {
@@ -84,17 +84,17 @@
             "path": "previews/ccp_duvall_02.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "383065c"
+            "hash": "3877837"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_02.webp",
             "w": 360,
             "h": 556,
-            "hash": "f1dc3b2"
+            "hash": "b3816bd"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_02.pdf",
-            "bytes": 25926649
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_02.pdf",
+            "bytes": 32597481
           },
           "tees": [
             {
@@ -142,17 +142,17 @@
             "path": "previews/ccp_duvall_03.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "e859af0"
+            "hash": "a06924a"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_03.webp",
             "w": 360,
             "h": 556,
-            "hash": "ed2ea33"
+            "hash": "4b68996"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_03.pdf",
-            "bytes": 30077763
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_03.pdf",
+            "bytes": 34737173
           },
           "tees": [
             {
@@ -197,13 +197,13 @@
           ],
           "notes": [
             "The creek is OB.",
-            "The walkway and beyond, behind B, is OB.",
-            "The stone-walled planter is OB."
+            "The stone-walled planter is OB.",
+            "To 4: down the hill and across the bridge."
           ],
           "note_badges": [
             "OB",
             "OB",
-            "OB"
+            null
           ]
         },
         {
@@ -213,83 +213,17 @@
             "path": "previews/ccp_duvall_04.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "896f434"
+            "hash": "be935d9"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_04.webp",
             "w": 360,
             "h": 556,
-            "hash": "a097eb3"
+            "hash": "464ab1d"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_04.pdf",
-            "bytes": 29759928
-          },
-          "tees": [
-            {
-              "key": "blue",
-              "label": "Blue",
-              "colors": [
-                "blue"
-              ]
-            },
-            {
-              "key": "white",
-              "label": "White",
-              "colors": [
-                "white"
-              ]
-            },
-            {
-              "key": "red",
-              "label": "Red",
-              "colors": [
-                "red"
-              ]
-            }
-          ],
-          "targets": [
-            {
-              "id": "A",
-              "feet": {
-                "blue": 245,
-                "white": 198,
-                "red": 122
-              },
-              "par": {
-                "blue": 3,
-                "white": 3,
-                "red": 3
-              }
-            }
-          ],
-          "notes": [
-            "The creek is OB.",
-            "The walkway on the right is OB."
-          ],
-          "note_badges": [
-            "OB",
-            "OB"
-          ]
-        },
-        {
-          "n": 5,
-          "name": "ccp_duvall_05",
-          "preview": {
-            "path": "previews/ccp_duvall_05.jpg",
-            "w": 900,
-            "h": 1391,
-            "hash": "f1082e6"
-          },
-          "thumb": {
-            "path": "thumbs/ccp_duvall_05.webp",
-            "w": 360,
-            "h": 556,
-            "hash": "a7e22ca"
-          },
-          "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_05.pdf",
-            "bytes": 26622834
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_04.pdf",
+            "bytes": 30245873
           },
           "tees": [
             {
@@ -312,8 +246,8 @@
             {
               "id": "A",
               "feet": {
-                "blue": 325,
-                "white-red": 256
+                "blue": 245,
+                "white-red": 198
               },
               "par": {
                 "blue": 3,
@@ -322,8 +256,8 @@
             }
           ],
           "notes": [
-            "The road and beyond is OB.",
-            "The creek and beyond is OB."
+            "The creek is OB.",
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB",
@@ -331,23 +265,23 @@
           ]
         },
         {
-          "n": 6,
-          "name": "ccp_duvall_06",
+          "n": 5,
+          "name": "ccp_duvall_05",
           "preview": {
-            "path": "previews/ccp_duvall_06.jpg",
+            "path": "previews/ccp_duvall_05.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "61eb17c"
+            "hash": "a8f5c58"
           },
           "thumb": {
-            "path": "thumbs/ccp_duvall_06.webp",
+            "path": "thumbs/ccp_duvall_05.webp",
             "w": 360,
             "h": 556,
-            "hash": "b6730fd"
+            "hash": "5b840fc"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_06.pdf",
-            "bytes": 26715006
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_05.pdf",
+            "bytes": 28656457
           },
           "tees": [
             {
@@ -376,7 +310,73 @@
             {
               "id": "A",
               "feet": {
-                "blue": 339,
+                "blue": 340,
+                "white": 264,
+                "red": 175
+              },
+              "par": {
+                "blue": 3,
+                "white": 3,
+                "red": 3
+              }
+            }
+          ],
+          "notes": [
+            "The road and beyond is OB.",
+            "The creek is OB."
+          ],
+          "note_badges": [
+            "OB",
+            "OB"
+          ]
+        },
+        {
+          "n": 6,
+          "name": "ccp_duvall_06",
+          "preview": {
+            "path": "previews/ccp_duvall_06.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "4f8cdbe"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_duvall_06.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "439b0a1"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_06.pdf",
+            "bytes": 37531736
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white",
+              "label": "White",
+              "colors": [
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 335,
                 "white": 257,
                 "red": 137
               },
@@ -401,17 +401,17 @@
             "path": "previews/ccp_duvall_07.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "70a8ad2"
+            "hash": "7a442c2"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_07.webp",
             "w": 360,
             "h": 556,
-            "hash": "bc4d25f"
+            "hash": "3c95265"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_07.pdf",
-            "bytes": 24350055
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_07.pdf",
+            "bytes": 25704742
           },
           "tees": [
             {
@@ -436,8 +436,8 @@
             }
           ],
           "notes": [
-            "Island hole: your tee shot must land inside the timbers. If it doesn't, play from the DZ at the left end of the footbridge, throwing 3.",
-            "All creek is OB."
+            "Until your disc comes to rest inside the timbers, every miss is +1, rethrow from the DZ.",
+            "The creek is OB. Once on the island, OB plays from where it was last in bounds."
           ],
           "note_badges": [
             "DZ",
@@ -451,17 +451,17 @@
             "path": "previews/ccp_duvall_08.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "2fa9fdf"
+            "hash": "98b7502"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_08.webp",
             "w": 360,
             "h": 556,
-            "hash": "a250bc3"
+            "hash": "065905d"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_08.pdf",
-            "bytes": 28905264
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_08.pdf",
+            "bytes": 35564380
           },
           "tees": [
             {
@@ -515,7 +515,7 @@
             }
           ],
           "notes": [
-            "The walkway and beyond, along the left, is OB."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB"
@@ -529,17 +529,17 @@
             "path": "previews/ccp_duvall_09l.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "6308344"
+            "hash": "f70b2cf"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_09l.webp",
             "w": 360,
             "h": 556,
-            "hash": "c1a6b4e"
+            "hash": "2d5aa3a"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_09l.pdf",
-            "bytes": 24064440
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_09l.pdf",
+            "bytes": 25715348
           },
           "tees": [
             {
@@ -564,7 +564,7 @@
             }
           ],
           "notes": [
-            "The walkway and beyond, along the right, is OB."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB"
@@ -578,17 +578,17 @@
             "path": "previews/ccp_duvall_09r.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "eef9fb6"
+            "hash": "02effca"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_09r.webp",
             "w": 360,
             "h": 556,
-            "hash": "7feacee"
+            "hash": "cf58c36"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_09r.pdf",
-            "bytes": 26106566
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_09r.pdf",
+            "bytes": 29847474
           },
           "tees": [
             {
@@ -632,7 +632,7 @@
             }
           ],
           "notes": [
-            "The walkway and beyond, along the left, is OB."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB"
@@ -646,17 +646,17 @@
             "path": "previews/ccp_duvall_10l.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "9254b74"
+            "hash": "f4870a6"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_10l.webp",
             "w": 360,
             "h": 556,
-            "hash": "b2c971d"
+            "hash": "ef58fc7"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_10l.pdf",
-            "bytes": 25161339
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_10l.pdf",
+            "bytes": 27256443
           },
           "tees": [
             {
@@ -681,7 +681,7 @@
             }
           ],
           "notes": [
-            "The walkway and beyond, along the right, is OB."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB"
@@ -695,17 +695,17 @@
             "path": "previews/ccp_duvall_10r.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "d250f34"
+            "hash": "446ccd0"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_10r.webp",
             "w": 360,
             "h": 556,
-            "hash": "d7f4e7d"
+            "hash": "4195684"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_10r.pdf",
-            "bytes": 23976207
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_10r.pdf",
+            "bytes": 25773070
           },
           "tees": [
             {
@@ -730,7 +730,7 @@
             }
           ],
           "notes": [
-            "The walkway and beyond, along the left, is OB."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB"
@@ -743,17 +743,17 @@
             "path": "previews/ccp_duvall_11.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "d297d3f"
+            "hash": "17e0577"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_11.webp",
             "w": 360,
             "h": 556,
-            "hash": "ad9f8a9"
+            "hash": "ee6faf0"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_11.pdf",
-            "bytes": 27143936
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_11.pdf",
+            "bytes": 29503529
           },
           "tees": [
             {
@@ -798,7 +798,7 @@
           ],
           "notes": [
             "Inside the ballfield fence is OB.",
-            "The walkway and beyond are OB."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB",
@@ -812,17 +812,17 @@
             "path": "previews/ccp_duvall_12.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "1eaf0f2"
+            "hash": "980b567"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_12.webp",
             "w": 360,
             "h": 556,
-            "hash": "b879b3f"
+            "hash": "8068824"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_12.pdf",
-            "bytes": 24049705
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_12.pdf",
+            "bytes": 27007399
           },
           "tees": [
             {
@@ -868,17 +868,17 @@
             "path": "previews/ccp_duvall_13.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "a9d8443"
+            "hash": "0f8122d"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_13.webp",
             "w": 360,
             "h": 556,
-            "hash": "2ac6c2f"
+            "hash": "6cc9f54"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_13.pdf",
-            "bytes": 30491443
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_13.pdf",
+            "bytes": 40682044
           },
           "tees": [
             {
@@ -958,7 +958,7 @@
             }
           ],
           "notes": [
-            "The walkway behind D is OB.",
+            "The walkway and beyond is OB.",
             "The creek is OB."
           ],
           "note_badges": [
@@ -973,17 +973,17 @@
             "path": "previews/ccp_duvall_14.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "4084cd8"
+            "hash": "30cd879"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_14.webp",
             "w": 360,
             "h": 556,
-            "hash": "45d6237"
+            "hash": "cdf80a3"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_14.pdf",
-            "bytes": 24458518
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_14.pdf",
+            "bytes": 26255101
           },
           "tees": [
             {
@@ -1037,17 +1037,17 @@
             "path": "previews/ccp_duvall_15.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "52efe9e"
+            "hash": "0e210ed"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_15.webp",
             "w": 360,
             "h": 556,
-            "hash": "746da2a"
+            "hash": "84dd3fa"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_15.pdf",
-            "bytes": 24683245
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_15.pdf",
+            "bytes": 26789128
           },
           "tees": [
             {
@@ -1081,7 +1081,7 @@
             }
           ],
           "notes": [
-            "The walkway and beyond, along the left, is OB."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB"
@@ -1094,17 +1094,17 @@
             "path": "previews/ccp_duvall_16.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "d121fb3"
+            "hash": "0626415"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_16.webp",
             "w": 360,
             "h": 556,
-            "hash": "33929c9"
+            "hash": "7dafcd9"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_16.pdf",
-            "bytes": 26776251
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_16.pdf",
+            "bytes": 30093281
           },
           "tees": [
             {
@@ -1161,17 +1161,17 @@
             "path": "previews/ccp_duvall_17.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "645a4a1"
+            "hash": "b7d996a"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_17.webp",
             "w": 360,
             "h": 556,
-            "hash": "58387d2"
+            "hash": "34b4594"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_17.pdf",
-            "bytes": 29128724
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_17.pdf",
+            "bytes": 45659164
           },
           "tees": [
             {
@@ -1264,17 +1264,17 @@
             "path": "previews/ccp_duvall_18.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "fea92fc"
+            "hash": "8e0bfe2"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_18.webp",
             "w": 360,
             "h": 556,
-            "hash": "1a90832"
+            "hash": "f6e26e4"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_duvall_18.pdf",
-            "bytes": 30355655
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_duvall_18.pdf",
+            "bytes": 32437287
           },
           "tees": [
             {
@@ -1319,7 +1319,7 @@
           ],
           "notes": [
             "The creek is OB.",
-            "The walkway and beyond, along the left, is OB."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
             "OB",
@@ -1333,8 +1333,8 @@
       "name": "Ironwood Course",
       "status": "published",
       "zip": {
-        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood.zip",
-        "bytes": 515863931
+        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood.zip",
+        "bytes": 599106489
       },
       "holes": [
         {
@@ -1344,17 +1344,17 @@
             "path": "previews/ccp_ironwood_01.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "579093d"
+            "hash": "7d8bb9f"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_01.webp",
             "w": 360,
             "h": 556,
-            "hash": "da81dbe"
+            "hash": "dbfa6c7"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_01.pdf",
-            "bytes": 25388735
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_01.pdf",
+            "bytes": 36572025
           },
           "tees": [
             {
@@ -1402,17 +1402,17 @@
             "path": "previews/ccp_ironwood_02.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "ff5b2c2"
+            "hash": "64fa77d"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_02.webp",
             "w": 360,
             "h": 556,
-            "hash": "62614c6"
+            "hash": "e5a15b1"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_02.pdf",
-            "bytes": 23076147
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_02.pdf",
+            "bytes": 23104272
           },
           "tees": [
             {
@@ -1460,124 +1460,17 @@
             "path": "previews/ccp_ironwood_03.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "3092af0"
+            "hash": "747eedc"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_03.webp",
             "w": 360,
             "h": 556,
-            "hash": "32cb615"
+            "hash": "f050660"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_03.pdf",
-            "bytes": 24993504
-          },
-          "tees": [
-            {
-              "key": "blue-white-red",
-              "label": "Blue · White · Red",
-              "colors": [
-                "blue",
-                "white",
-                "red"
-              ]
-            }
-          ],
-          "targets": [
-            {
-              "id": "A",
-              "feet": {
-                "blue-white-red": 319
-              },
-              "par": {
-                "blue-white-red": 3
-              }
-            }
-          ],
-          "notes": [
-            "The road and beyond is OB.",
-            "Inside the ballfield fence is OB."
-          ],
-          "note_badges": [
-            "OB",
-            "OB"
-          ]
-        },
-        {
-          "n": 4,
-          "name": "ccp_ironwood_04",
-          "preview": {
-            "path": "previews/ccp_ironwood_04.jpg",
-            "w": 900,
-            "h": 1391,
-            "hash": "344aa59"
-          },
-          "thumb": {
-            "path": "thumbs/ccp_ironwood_04.webp",
-            "w": 360,
-            "h": 556,
-            "hash": "ee46234"
-          },
-          "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_04.pdf",
-            "bytes": 24828086
-          },
-          "tees": [
-            {
-              "key": "blue-white-red",
-              "label": "Blue · White · Red",
-              "colors": [
-                "blue",
-                "white",
-                "red"
-              ]
-            }
-          ],
-          "targets": [
-            {
-              "id": "A",
-              "feet": {
-                "blue-white-red": 322
-              },
-              "par": {
-                "blue-white-red": 3
-              }
-            },
-            {
-              "id": "B",
-              "feet": {
-                "blue-white-red": 386
-              },
-              "par": {
-                "blue-white-red": 4
-              }
-            }
-          ],
-          "notes": [
-            "The road and beyond is OB."
-          ],
-          "note_badges": [
-            "OB"
-          ]
-        },
-        {
-          "n": 5,
-          "name": "ccp_ironwood_05",
-          "preview": {
-            "path": "previews/ccp_ironwood_05.jpg",
-            "w": 900,
-            "h": 1391,
-            "hash": "6ab45e0"
-          },
-          "thumb": {
-            "path": "thumbs/ccp_ironwood_05.webp",
-            "w": 360,
-            "h": 556,
-            "hash": "fce2cb9"
-          },
-          "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_05.pdf",
-            "bytes": 25993108
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_03.pdf",
+            "bytes": 25078032
           },
           "tees": [
             {
@@ -1600,8 +1493,66 @@
             {
               "id": "A",
               "feet": {
-                "blue-white": 324,
-                "red": 252
+                "blue-white": 319,
+                "red": 216
+              },
+              "par": {
+                "blue-white": 3,
+                "red": 3
+              }
+            }
+          ],
+          "notes": [
+            "The road and beyond is OB.",
+            "Inside the ballfield fence is OB."
+          ],
+          "note_badges": [
+            "OB",
+            "OB"
+          ]
+        },
+        {
+          "n": 4,
+          "name": "ccp_ironwood_04",
+          "preview": {
+            "path": "previews/ccp_ironwood_04.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "a32ebde"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_04.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "6c3ecf3"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_04.pdf",
+            "bytes": 25969518
+          },
+          "tees": [
+            {
+              "key": "blue-white",
+              "label": "Blue · White",
+              "colors": [
+                "blue",
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue-white": 322,
+                "red": 170
               },
               "par": {
                 "blue-white": 3,
@@ -1612,27 +1563,106 @@
               "id": "B",
               "feet": {
                 "blue-white": 389,
-                "red": 318
+                "red": 238
               },
               "par": {
                 "blue-white": 4,
-                "red": 4
+                "red": 3
+              }
+            }
+          ],
+          "notes": [
+            "The road and beyond is OB."
+          ],
+          "note_badges": [
+            "OB"
+          ]
+        },
+        {
+          "n": 5,
+          "name": "ccp_ironwood_05",
+          "preview": {
+            "path": "previews/ccp_ironwood_05.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "48c1f04"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_05.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "b3f4b88"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_05.pdf",
+            "bytes": 33105592
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white",
+              "label": "White",
+              "colors": [
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 324,
+                "white": 252,
+                "red": 154
+              },
+              "par": {
+                "blue": 3,
+                "white": 3,
+                "red": 3
+              }
+            },
+            {
+              "id": "B",
+              "feet": {
+                "blue": 389,
+                "white": 318,
+                "red": 241
+              },
+              "par": {
+                "blue": 4,
+                "white": 4,
+                "red": 3
               }
             },
             {
               "id": "C",
               "feet": {
-                "blue-white": 438,
-                "red": 366
+                "blue": 438,
+                "white": 366,
+                "red": 278
               },
               "par": {
-                "blue-white": 4,
-                "red": 4
+                "blue": 4,
+                "white": 4,
+                "red": 3
               }
             }
           ],
           "notes": [
-            "The walkway, parking lot and road and beyond are OB.",
+            "The walkway, parking lot, road and beyond is OB.",
             "The staked swampy area is OB."
           ],
           "note_badges": [
@@ -1647,17 +1677,17 @@
             "path": "previews/ccp_ironwood_06.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "39d64bc"
+            "hash": "c14b77b"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_06.webp",
             "w": 360,
             "h": 556,
-            "hash": "002e166"
+            "hash": "1eeb598"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_06.pdf",
-            "bytes": 27738530
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_06.pdf",
+            "bytes": 29676424
           },
           "tees": [
             {
@@ -1668,10 +1698,16 @@
               ]
             },
             {
-              "key": "white-red",
-              "label": "White · Red",
+              "key": "white",
+              "label": "White",
               "colors": [
-                "white",
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
                 "red"
               ]
             }
@@ -1681,22 +1717,26 @@
               "id": "A",
               "feet": {
                 "blue": 366,
-                "white-red": 333
+                "white": 290,
+                "red": 209
               },
               "par": {
                 "blue": 3,
-                "white-red": 3
+                "white": 3,
+                "red": 3
               }
             },
             {
               "id": "B",
               "feet": {
                 "blue": 422,
-                "white-red": 414
+                "white": 349,
+                "red": 283
               },
               "par": {
                 "blue": 4,
-                "white-red": 4
+                "white": 4,
+                "red": 4
               }
             }
           ],
@@ -1716,17 +1756,17 @@
             "path": "previews/ccp_ironwood_07.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "b83468e"
+            "hash": "4e07431"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_07.webp",
             "w": 360,
             "h": 556,
-            "hash": "0bd5a0e"
+            "hash": "e539aa8"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_07.pdf",
-            "bytes": 28545235
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_07.pdf",
+            "bytes": 34204351
           },
           "tees": [
             {
@@ -1756,8 +1796,8 @@
               "id": "A",
               "feet": {
                 "blue": 418,
-                "white": 339,
-                "red": 214
+                "white": 261,
+                "red": 168
               },
               "par": {
                 "blue": 3,
@@ -1769,8 +1809,8 @@
               "id": "B",
               "feet": {
                 "blue": 511,
-                "white": 432,
-                "red": 306
+                "white": 353,
+                "red": 261
               },
               "par": {
                 "blue": 4,
@@ -1782,8 +1822,8 @@
               "id": "C",
               "feet": {
                 "blue": 509,
-                "white": 432,
-                "red": 316
+                "white": 362,
+                "red": 264
               },
               "par": {
                 "blue": 4,
@@ -1810,17 +1850,17 @@
             "path": "previews/ccp_ironwood_08.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "9797929"
+            "hash": "8c842d4"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_08.webp",
             "w": 360,
             "h": 556,
-            "hash": "db22e16"
+            "hash": "9132573"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_08.pdf",
-            "bytes": 26876738
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_08.pdf",
+            "bytes": 31093653
           },
           "tees": [
             {
@@ -1864,7 +1904,7 @@
             }
           ],
           "notes": [
-            "Creek and beyond is OB."
+            "The creek is OB."
           ],
           "note_badges": [
             "OB"
@@ -1877,17 +1917,17 @@
             "path": "previews/ccp_ironwood_09.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "d7dfcb0"
+            "hash": "90be88c"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_09.webp",
             "w": 360,
             "h": 556,
-            "hash": "1b5d739"
+            "hash": "98ddc61"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_09.pdf",
-            "bytes": 24750119
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_09.pdf",
+            "bytes": 27181890
           },
           "tees": [
             {
@@ -1925,17 +1965,17 @@
             "path": "previews/ccp_ironwood_10.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "237e04b"
+            "hash": "e7d371f"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_10.webp",
             "w": 360,
             "h": 556,
-            "hash": "e76030f"
+            "hash": "7233f05"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_10.pdf",
-            "bytes": 27531744
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_10.pdf",
+            "bytes": 31650818
           },
           "tees": [
             {
@@ -1976,7 +2016,7 @@
             }
           ],
           "notes": [
-            "Creek and beyond is OB."
+            "The creek is OB."
           ],
           "note_badges": [
             "OB"
@@ -1989,17 +2029,17 @@
             "path": "previews/ccp_ironwood_11.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "010791a"
+            "hash": "4642082"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_11.webp",
             "w": 360,
             "h": 556,
-            "hash": "604ca76"
+            "hash": "c1f6d5d"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_11.pdf",
-            "bytes": 25465004
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_11.pdf",
+            "bytes": 27955351
           },
           "tees": [
             {
@@ -2032,9 +2072,11 @@
             }
           ],
           "notes": [
-            "Creek is OB."
+            "The creek is OB.",
+            "The walkway, parking lot and beyond is OB."
           ],
           "note_badges": [
+            "OB",
             "OB"
           ]
         },
@@ -2046,24 +2088,30 @@
             "path": "previews/ccp_ironwood_12l.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "2c5fe90"
+            "hash": "67ca078"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_12l.webp",
             "w": 360,
             "h": 556,
-            "hash": "84fb9ee"
+            "hash": "8e9c71a"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_12l.pdf",
-            "bytes": 26700467
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_12l.pdf",
+            "bytes": 29808296
           },
           "tees": [
             {
-              "key": "blue-white-red",
-              "label": "Blue · White · Red",
+              "key": "blue",
+              "label": "Blue",
               "colors": [
-                "blue",
+                "blue"
+              ]
+            },
+            {
+              "key": "white-red",
+              "label": "White · Red",
+              "colors": [
                 "white",
                 "red"
               ]
@@ -2073,15 +2121,17 @@
             {
               "id": "A",
               "feet": {
-                "blue-white-red": 364
+                "blue": 357,
+                "white-red": 269
               },
               "par": {
-                "blue-white-red": 4
+                "blue": 4,
+                "white-red": 4
               }
             }
           ],
           "notes": [
-            "Creek and beyond is OB."
+            "The creek is OB."
           ],
           "note_badges": [
             "OB"
@@ -2095,17 +2145,17 @@
             "path": "previews/ccp_ironwood_12r.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "c7a8075"
+            "hash": "818ec48"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_12r.webp",
             "w": 360,
             "h": 556,
-            "hash": "e6aa624"
+            "hash": "a12d4fb"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_12r.pdf",
-            "bytes": 25251182
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_12r.pdf",
+            "bytes": 28814481
           },
           "tees": [
             {
@@ -2152,66 +2202,17 @@
             "path": "previews/ccp_ironwood_13l.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "698d60a"
+            "hash": "9eba7d9"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_13l.webp",
             "w": 360,
             "h": 556,
-            "hash": "9bb9b22"
+            "hash": "942c0e0"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_13l.pdf",
-            "bytes": 25952499
-          },
-          "tees": [
-            {
-              "key": "blue-white-red",
-              "label": "Blue · White · Red",
-              "colors": [
-                "blue",
-                "white",
-                "red"
-              ]
-            }
-          ],
-          "targets": [
-            {
-              "id": "A",
-              "feet": {
-                "blue-white-red": 421
-              },
-              "par": {
-                "blue-white-red": 4
-              }
-            }
-          ],
-          "notes": [
-            "To 14: follow the path around the maintenance shed back out to the concrete path, then cross the bridge."
-          ],
-          "note_badges": [
-            null
-          ]
-        },
-        {
-          "n": 13,
-          "variant": "R",
-          "name": "ccp_ironwood_13r",
-          "preview": {
-            "path": "previews/ccp_ironwood_13r.jpg",
-            "w": 900,
-            "h": 1391,
-            "hash": "ad839a5"
-          },
-          "thumb": {
-            "path": "thumbs/ccp_ironwood_13r.webp",
-            "w": 360,
-            "h": 556,
-            "hash": "d712a30"
-          },
-          "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_13r.pdf",
-            "bytes": 28327189
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_13l.pdf",
+            "bytes": 30597853
           },
           "tees": [
             {
@@ -2240,19 +2241,84 @@
             {
               "id": "A",
               "feet": {
-                "blue": 358,
-                "white": 288,
-                "red": 202
+                "blue": 473,
+                "white": 336,
+                "red": 236
               },
               "par": {
                 "blue": 4,
-                "white": 3,
+                "white": 4,
+                "red": 4
+              }
+            }
+          ],
+          "notes": [
+            "To 14: follow the path around the maintenance shed back out to the concrete path, then cross the bridge."
+          ],
+          "note_badges": [
+            null
+          ]
+        },
+        {
+          "n": 13,
+          "variant": "R",
+          "name": "ccp_ironwood_13r",
+          "preview": {
+            "path": "previews/ccp_ironwood_13r.jpg",
+            "w": 900,
+            "h": 1391,
+            "hash": "1012f22"
+          },
+          "thumb": {
+            "path": "thumbs/ccp_ironwood_13r.webp",
+            "w": 360,
+            "h": 556,
+            "hash": "40962a7"
+          },
+          "pdf": {
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_13r.pdf",
+            "bytes": 30478182
+          },
+          "tees": [
+            {
+              "key": "blue",
+              "label": "Blue",
+              "colors": [
+                "blue"
+              ]
+            },
+            {
+              "key": "white",
+              "label": "White",
+              "colors": [
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
+                "red"
+              ]
+            }
+          ],
+          "targets": [
+            {
+              "id": "A",
+              "feet": {
+                "blue": 426,
+                "white": 351,
+                "red": 281
+              },
+              "par": {
+                "blue": 4,
+                "white": 4,
                 "red": 3
               }
             }
           ],
           "notes": [
-            "Creek and beyond is OB.",
+            "The creek is OB.",
             "To 14: take the paved path across the bridge, then turn right and follow the creek to the tee."
           ],
           "note_badges": [
@@ -2267,17 +2333,17 @@
             "path": "previews/ccp_ironwood_14.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "0d44945"
+            "hash": "2bc81af"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_14.webp",
             "w": 360,
             "h": 556,
-            "hash": "0638982"
+            "hash": "a10bec0"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_14.pdf",
-            "bytes": 26085576
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_14.pdf",
+            "bytes": 30899156
           },
           "tees": [
             {
@@ -2318,10 +2384,10 @@
             }
           ],
           "notes": [
-            "No special rules on this hole."
+            "The walkway and beyond is OB."
           ],
           "note_badges": [
-            null
+            "OB"
           ]
         },
         {
@@ -2331,17 +2397,17 @@
             "path": "previews/ccp_ironwood_15.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "d901acc"
+            "hash": "bab2f4b"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_15.webp",
             "w": 360,
             "h": 556,
-            "hash": "b79890b"
+            "hash": "b393173"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_15.pdf",
-            "bytes": 24910153
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_15.pdf",
+            "bytes": 28854379
           },
           "tees": [
             {
@@ -2387,17 +2453,17 @@
             "path": "previews/ccp_ironwood_16.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "9d8112f"
+            "hash": "3910084"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_16.webp",
             "w": 360,
             "h": 556,
-            "hash": "f230a37"
+            "hash": "0d96081"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_16.pdf",
-            "bytes": 25199440
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_16.pdf",
+            "bytes": 29626159
           },
           "tees": [
             {
@@ -2443,17 +2509,17 @@
             "path": "previews/ccp_ironwood_17.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "98ed219"
+            "hash": "4474f55"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_17.webp",
             "w": 360,
             "h": 556,
-            "hash": "d36e6ac"
+            "hash": "e319701"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_17.pdf",
-            "bytes": 25268531
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_17.pdf",
+            "bytes": 27151947
           },
           "tees": [
             {
@@ -2478,7 +2544,7 @@
             }
           ],
           "notes": [
-            "Creek and beyond is OB.",
+            "The creek is OB.",
             "To 18: follow the creek left, behind hole 8's tee, and cross at the bridge."
           ],
           "note_badges": [
@@ -2493,17 +2559,17 @@
             "path": "previews/ccp_ironwood_18.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "e7394a5"
+            "hash": "2535674"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_18.webp",
             "w": 360,
             "h": 556,
-            "hash": "e0af3d9"
+            "hash": "d23cb6a"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-10-28-2/ccp_ironwood_18.pdf",
-            "bytes": 22979634
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-16/ccp_ironwood_18.pdf",
+            "bytes": 37281800
           },
           "tees": [
             {
@@ -2514,10 +2580,16 @@
               ]
             },
             {
-              "key": "white-red",
-              "label": "White · Red",
+              "key": "white",
+              "label": "White",
               "colors": [
-                "white",
+                "white"
+              ]
+            },
+            {
+              "key": "red",
+              "label": "Red",
+              "colors": [
                 "red"
               ]
             }
@@ -2527,20 +2599,24 @@
               "id": "A",
               "feet": {
                 "blue": 430,
-                "white-red": 424
+                "white": 339,
+                "red": 292
               },
               "par": {
                 "blue": 4,
-                "white-red": 4
+                "white": 4,
+                "red": 4
               }
             }
           ],
           "notes": [
             "The road and beyond is OB.",
+            "The walkway and beyond is OB.",
             "Disc must pass left of the mando.",
             "Missed the mando? Play from the drop zone."
           ],
           "note_badges": [
+            "OB",
             "OB",
             "MANDO",
             "DZ"
