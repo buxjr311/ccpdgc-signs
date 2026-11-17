@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-17T00:48:27-05:00",
-  "release": "print-2026-11-17",
-  "release_url": "https://github.com/buxjr311/ccpdgc-signs/releases/tag/print-2026-11-17",
+  "generated_at": "2026-11-17T17:29:50-05:00",
+  "release": "print-2026-11-17-2",
+  "release_url": "https://github.com/buxjr311/ccpdgc-signs/releases/tag/print-2026-11-17-2",
   "courses": [
     {
       "key": "duvall",
       "name": "Duvall Course",
       "status": "published",
       "zip": {
-        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall.zip",
-        "bytes": 621205478
+        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall.zip",
+        "bytes": 621505162
       },
       "holes": [
         {
@@ -29,7 +29,7 @@
             "hash": "24fa916"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_01.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_01.pdf",
             "bytes": 29146812
           },
           "tees": [
@@ -93,7 +93,7 @@
             "hash": "b3816bd"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_02.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_02.pdf",
             "bytes": 32597481
           },
           "tees": [
@@ -151,7 +151,7 @@
             "hash": "4b68996"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_03.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_03.pdf",
             "bytes": 34737173
           },
           "tees": [
@@ -222,7 +222,7 @@
             "hash": "464ab1d"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_04.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_04.pdf",
             "bytes": 30245873
           },
           "tees": [
@@ -280,7 +280,7 @@
             "hash": "5b840fc"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_05.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_05.pdf",
             "bytes": 28656457
           },
           "tees": [
@@ -337,17 +337,17 @@
             "path": "previews/ccp_duvall_06.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "4f8cdbe"
+            "hash": "e52df70"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_06.webp",
             "w": 360,
             "h": 556,
-            "hash": "439b0a1"
+            "hash": "dcb8758"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_06.pdf",
-            "bytes": 37531736
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_06.pdf",
+            "bytes": 37053925
           },
           "tees": [
             {
@@ -388,10 +388,16 @@
             }
           ],
           "notes": [
-            "The creek is OB."
+            "The creek is OB.",
+            "The walkway and beyond is OB.",
+            "Disc must pass left of the mando.",
+            "Missed the mando? Rethrow, +1."
           ],
           "note_badges": [
-            "OB"
+            "OB",
+            "OB",
+            "MANDO",
+            "MANDO"
           ]
         },
         {
@@ -410,7 +416,7 @@
             "hash": "5797dfa"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_07.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_07.pdf",
             "bytes": 25704068
           },
           "tees": [
@@ -460,7 +466,7 @@
             "hash": "065905d"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_08.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_08.pdf",
             "bytes": 35564380
           },
           "tees": [
@@ -529,17 +535,17 @@
             "path": "previews/ccp_duvall_09l.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "f70b2cf"
+            "hash": "e35324c"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_09l.webp",
             "w": 360,
             "h": 556,
-            "hash": "2d5aa3a"
+            "hash": "8da7357"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_09l.pdf",
-            "bytes": 25715348
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_09l.pdf",
+            "bytes": 25714844
           },
           "tees": [
             {
@@ -578,17 +584,17 @@
             "path": "previews/ccp_duvall_09r.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "02effca"
+            "hash": "9ba2886"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_09r.webp",
             "w": 360,
             "h": 556,
-            "hash": "cf58c36"
+            "hash": "693a64a"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_09r.pdf",
-            "bytes": 29847474
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_09r.pdf",
+            "bytes": 29846766
           },
           "tees": [
             {
@@ -646,17 +652,17 @@
             "path": "previews/ccp_duvall_10l.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "f4870a6"
+            "hash": "39d33fc"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_10l.webp",
             "w": 360,
             "h": 556,
-            "hash": "ef58fc7"
+            "hash": "d70937f"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_10l.pdf",
-            "bytes": 27256443
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_10l.pdf",
+            "bytes": 27255946
           },
           "tees": [
             {
@@ -695,17 +701,17 @@
             "path": "previews/ccp_duvall_10r.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "446ccd0"
+            "hash": "9361e7a"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_10r.webp",
             "w": 360,
             "h": 556,
-            "hash": "4195684"
+            "hash": "9d35181"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_10r.pdf",
-            "bytes": 25773070
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_10r.pdf",
+            "bytes": 25772375
           },
           "tees": [
             {
@@ -752,7 +758,7 @@
             "hash": "ee6faf0"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_11.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_11.pdf",
             "bytes": 29503529
           },
           "tees": [
@@ -821,7 +827,7 @@
             "hash": "8068824"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_12.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_12.pdf",
             "bytes": 27007399
           },
           "tees": [
@@ -868,17 +874,17 @@
             "path": "previews/ccp_duvall_13.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "0f8122d"
+            "hash": "45b4bbe"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_13.webp",
             "w": 360,
             "h": 556,
-            "hash": "6cc9f54"
+            "hash": "6fcfba8"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_13.pdf",
-            "bytes": 40682044
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_13.pdf",
+            "bytes": 41459503
           },
           "tees": [
             {
@@ -982,7 +988,7 @@
             "hash": "cdf80a3"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_14.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_14.pdf",
             "bytes": 26255101
           },
           "tees": [
@@ -1046,7 +1052,7 @@
             "hash": "84dd3fa"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_15.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_15.pdf",
             "bytes": 26789128
           },
           "tees": [
@@ -1094,17 +1100,17 @@
             "path": "previews/ccp_duvall_16.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "0626415"
+            "hash": "f5579d0"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_16.webp",
             "w": 360,
             "h": 556,
-            "hash": "7dafcd9"
+            "hash": "1ef93cb"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_16.pdf",
-            "bytes": 30093281
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_16.pdf",
+            "bytes": 30095716
           },
           "tees": [
             {
@@ -1148,10 +1154,10 @@
             }
           ],
           "notes": [
-            "No special rules on this hole."
+            "The road, parking lot and beyond is OB."
           ],
           "note_badges": [
-            null
+            "OB"
           ]
         },
         {
@@ -1170,7 +1176,7 @@
             "hash": "34b4594"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_17.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_17.pdf",
             "bytes": 45659164
           },
           "tees": [
@@ -1264,17 +1270,17 @@
             "path": "previews/ccp_duvall_18.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "8e0bfe2"
+            "hash": "52f0804"
           },
           "thumb": {
             "path": "thumbs/ccp_duvall_18.webp",
             "w": 360,
             "h": 556,
-            "hash": "f6e26e4"
+            "hash": "3f69cf5"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_duvall_18.pdf",
-            "bytes": 32437287
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_duvall_18.pdf",
+            "bytes": 32437292
           },
           "tees": [
             {
@@ -1318,7 +1324,7 @@
             }
           ],
           "notes": [
-            "The creek is OB.",
+            "The creek and beyond is OB.",
             "The walkway and beyond is OB."
           ],
           "note_badges": [
@@ -1333,8 +1339,8 @@
       "name": "Ironwood Course",
       "status": "published",
       "zip": {
-        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood.zip",
-        "bytes": 599106489
+        "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood.zip",
+        "bytes": 599104111
       },
       "holes": [
         {
@@ -1353,7 +1359,7 @@
             "hash": "dbfa6c7"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_01.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_01.pdf",
             "bytes": 36572025
           },
           "tees": [
@@ -1411,7 +1417,7 @@
             "hash": "e5a15b1"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_02.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_02.pdf",
             "bytes": 23104272
           },
           "tees": [
@@ -1469,7 +1475,7 @@
             "hash": "f050660"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_03.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_03.pdf",
             "bytes": 25078032
           },
           "tees": [
@@ -1527,7 +1533,7 @@
             "hash": "6c3ecf3"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_04.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_04.pdf",
             "bytes": 25969518
           },
           "tees": [
@@ -1594,7 +1600,7 @@
             "hash": "b3f4b88"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_05.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_05.pdf",
             "bytes": 33105592
           },
           "tees": [
@@ -1686,7 +1692,7 @@
             "hash": "1eeb598"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_06.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_06.pdf",
             "bytes": 29676424
           },
           "tees": [
@@ -1765,7 +1771,7 @@
             "hash": "e539aa8"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_07.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_07.pdf",
             "bytes": 34204351
           },
           "tees": [
@@ -1859,7 +1865,7 @@
             "hash": "9132573"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_08.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_08.pdf",
             "bytes": 31093653
           },
           "tees": [
@@ -1926,7 +1932,7 @@
             "hash": "98ddc61"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_09.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_09.pdf",
             "bytes": 27181890
           },
           "tees": [
@@ -1974,7 +1980,7 @@
             "hash": "7233f05"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_10.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_10.pdf",
             "bytes": 31650818
           },
           "tees": [
@@ -2038,7 +2044,7 @@
             "hash": "c1f6d5d"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_11.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_11.pdf",
             "bytes": 27955351
           },
           "tees": [
@@ -2088,17 +2094,17 @@
             "path": "previews/ccp_ironwood_12l.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "67ca078"
+            "hash": "fdb800d"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_12l.webp",
             "w": 360,
             "h": 556,
-            "hash": "8e9c71a"
+            "hash": "fb20d40"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_12l.pdf",
-            "bytes": 29808296
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_12l.pdf",
+            "bytes": 29807773
           },
           "tees": [
             {
@@ -2145,17 +2151,17 @@
             "path": "previews/ccp_ironwood_12r.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "818ec48"
+            "hash": "1c306d1"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_12r.webp",
             "w": 360,
             "h": 556,
-            "hash": "a12d4fb"
+            "hash": "9333055"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_12r.pdf",
-            "bytes": 28814481
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_12r.pdf",
+            "bytes": 28813819
           },
           "tees": [
             {
@@ -2202,17 +2208,17 @@
             "path": "previews/ccp_ironwood_13l.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "9eba7d9"
+            "hash": "94a04b4"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_13l.webp",
             "w": 360,
             "h": 556,
-            "hash": "942c0e0"
+            "hash": "a29b1f1"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_13l.pdf",
-            "bytes": 30597853
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_13l.pdf",
+            "bytes": 30597340
           },
           "tees": [
             {
@@ -2267,17 +2273,17 @@
             "path": "previews/ccp_ironwood_13r.jpg",
             "w": 900,
             "h": 1391,
-            "hash": "1012f22"
+            "hash": "e9aebeb"
           },
           "thumb": {
             "path": "thumbs/ccp_ironwood_13r.webp",
             "w": 360,
             "h": 556,
-            "hash": "40962a7"
+            "hash": "76a04f8"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_13r.pdf",
-            "bytes": 30478182
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_13r.pdf",
+            "bytes": 30477502
           },
           "tees": [
             {
@@ -2342,7 +2348,7 @@
             "hash": "a10bec0"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_14.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_14.pdf",
             "bytes": 30899156
           },
           "tees": [
@@ -2406,7 +2412,7 @@
             "hash": "b393173"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_15.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_15.pdf",
             "bytes": 28854379
           },
           "tees": [
@@ -2462,7 +2468,7 @@
             "hash": "0d96081"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_16.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_16.pdf",
             "bytes": 29626159
           },
           "tees": [
@@ -2518,7 +2524,7 @@
             "hash": "e319701"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_17.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_17.pdf",
             "bytes": 27151947
           },
           "tees": [
@@ -2568,7 +2574,7 @@
             "hash": "d23cb6a"
           },
           "pdf": {
-            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17/ccp_ironwood_18.pdf",
+            "url": "https://github.com/buxjr311/ccpdgc-signs/releases/download/print-2026-11-17-2/ccp_ironwood_18.pdf",
             "bytes": 37281800
           },
           "tees": [
